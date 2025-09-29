@@ -1,3 +1,15 @@
+# Aplikacja korzysta z API wikipedii, na podstawie której znajduje wynik wyszukiwania leku.
+Sprawdzi, czy wynik wyszukiwania to forma farmaceutyczna, pozwoli użytkownikowi na dodanie leku do swojej listy oraz ustawienia przypomnienia by go zażyć dziennie / jednorazowo o danej godzinie.
+
+```Wykorzystane technologie: Angular (19.2.17), TailwindCSS, wspomagane modelem GPT 4```
+### Z ciekawej strony kodu, można było użyć gotowych API lecz dla wyzwania zapoznałem sie z API wikipedii i na jej podstawie ustalono, że strony które nalezą do leków posiadają w swojej kategorii przedrostek ATC z danym typem numeru dla danego lekarstwa.
+Więcej informacji w pliku **medicine.service.ts**
+
+![Film przedstawiajacy dzialanie](https://imgur.com/UHuSn2t.gif)
+
+
+--------------
+
 # Project
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.17.
