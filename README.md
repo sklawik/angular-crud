@@ -5,7 +5,8 @@ Sprawdzi, czy wynik wyszukiwania to forma farmaceutyczna, pozwoli użytkownikowi
 ### Z ciekawej strony kodu, można było użyć gotowych API lecz dla wyzwania zapoznałem sie z API wikipedii i na jej podstawie ustalono, że strony które nalezą do leków posiadają w swojej kategorii przedrostek ATC z danym typem numeru dla danego lekarstwa.
 Więcej informacji w pliku **medicine.service.ts**
 
-![Film przedstawiajacy dzialanie](https://imgur.com/a/BnI1tbh.gif)
+
+[GIF](https://imgur.com/sRK55sT.gif)
 
 --------------
 
